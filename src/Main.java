@@ -1,4 +1,4 @@
-public class main {
+public class Main {
 
     public static void main(String[] args) {
         int ticket = 200;
@@ -7,4 +7,4 @@ public class main {
         int bonus = ticket / oneMileRuble;
         System.out.println("Итоговый бонус: " + bonus);
     }
-    }
+}
